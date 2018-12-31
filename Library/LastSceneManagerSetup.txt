@@ -1,4 +1,7 @@
 sceneSetups:
-- path: Assets/WizardGame.unity
+- path: Assets/Scenes/MainMenu.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Scenes/WizardGame.unity
+  isLoaded: 0
+  isActive: 0
